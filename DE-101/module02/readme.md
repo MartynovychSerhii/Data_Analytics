@@ -1,4 +1,4 @@
-Document with SQL querys answering for this metrikss
+Document with SQL queries answering for this requests:
 1. Overview 
   - Total Sales 
   - Total Profit
