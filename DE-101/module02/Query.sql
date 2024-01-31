@@ -62,6 +62,5 @@ group by region
 
 /*Persent of returns*/
 select  cast((select count(returned) 
-		 from returns)
-		 as decimal(5,2)) / count(order_id) * 100.0 as Persent_of_returns
+		 from returns) as decimal(5,2)) / count(order_id) * 100.0 as Persent_of_returns
 from orders
