@@ -1,4 +1,5 @@
-Metrics_query.sql - Document with SQL queries answering for this requests:
+* Create_tables_query.sql - Document with SQL to create tables
+* Metrics_query.sql - Document with SQL queries answering for this requests:
 
   - Total Sales 
   - Total Profit
@@ -13,4 +14,4 @@ Metrics_query.sql - Document with SQL queries answering for this requests:
   - Sales per region
   - Persent of returns
 
-Create_tables_query.sql - Document with SQL to create tables
+
