@@ -1,4 +1,4 @@
-Metrics_query - Document with SQL queries answering for this requests:
+Metrics_query.sql - Document with SQL queries answering for this requests:
 
   - Total Sales 
   - Total Profit
