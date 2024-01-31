@@ -1,5 +1,5 @@
 Document with SQL queries answering for this requests:
-1. Overview 
+
   - Total Sales 
   - Total Profit
   - Profit Ratio
@@ -8,9 +8,7 @@ Document with SQL queries answering for this requests:
   - Avg. Discount
   - Monthly Sales by Segment 
   - Monthly Sales by Product Category 
- 2. Product Dashboard 
   - Sales by Product Category over time 
- 3. Customer Analysis
   - Sales and Profit by Customer
-  - Customer Ranking
   - Sales per region
+  - Persent of returns
