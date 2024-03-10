@@ -5,4 +5,4 @@
 4. Побудуйте теплову карту за даними про вік (рядки), поле (стовпці) та вагу панцира крабів (колір комірки).
 5*. Побудуйте таблицю, яка відобразить залежність між статтю крабів (рядки) та діаметром їх панцира (стовпці, розбиті на інтервали), а також за вагою крабів (колір комірки). Додайте можливість перемикання залежної категорії Sex на Age.
 # Go to [solution](https://public.tableau.com/app/profile/.48972542/viz/14_Tableau_Marathon_2_0/Dashboard3)
-![cover](https://github.com/MartynovychSerhii/Data_Analytics/blob/main/Files/img/Marathon_13.png)
+![cover](https://github.com/MartynovychSerhii/Data_Analytics/blob/main/Files/img/Marathon_14.png)
