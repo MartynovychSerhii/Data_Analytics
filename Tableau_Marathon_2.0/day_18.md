@@ -4,4 +4,4 @@
 3. Побудуйте Small Multiples у розрізі категорій ціни віскі та топ-5 країнам, відобразивши динаміку їхнього продажу.
 4. Побудуйте на основі цих графіків дашборд.
 # Go to [solution](https://public.tableau.com/app/profile/.48972542/viz/18Tableau_Marathon_2_0/Dashboard2?publish=yes)
-![cover]()
+![cover](https://github.com/MartynovychSerhii/Data_Analytics/blob/main/Files/img/Marathon_18.png)
